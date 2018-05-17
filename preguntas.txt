@@ -1,0 +1,5 @@
+1-Usado para definir una funcion-def
+2-Crear un segundo nombre para una variable metodo-alias
+3-Conjunto ordenado: cada posición en la lista es una variable que podemos leer y/o escribir-array
+4-Contenedor de datos, que a su vez controla el acceso a dichos datos-objeto
+5-Es usada para construir un objeto-clase
